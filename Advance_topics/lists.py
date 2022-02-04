@@ -58,7 +58,7 @@ number.sort() #sorts the list in asc
 number.reverse() #reverses the list
 print(number)
 
-num2=number.copy();
+num2=number.copy()
 print(num2)
 
 number.remove(5) #removes 5 found at the very 1st occurence
