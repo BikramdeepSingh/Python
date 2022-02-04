@@ -44,9 +44,7 @@ print(len(user_name)) #returns the length of the string
 #len is a general purpose function
 print(user_name.upper())#function specific to strings for uppercase
 print(user_name.lower())#function specific to strings for lowercase
-print(user_name.find('e')) 
-
-#returns index of 1st occurrence of the character 
+print(user_name.find('e')) #returns index of 1st occurrence of the character 
 # and it is case sensitive and if not found, it will return -1
 
 print(user_name.find('Smith')) #returns starting index of the string
