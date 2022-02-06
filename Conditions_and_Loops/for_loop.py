@@ -25,5 +25,5 @@ for num in range(1,5): #it will start from 1 till 4
     print(num, end=" ") # 1 2 3 4
 
 print()
-for num in range(1,5,2): #3rd arguments is the increment the 1st argument
+for num in range(1,5,2): #3rd argument is the increment to the 1st argument
     print(num, end=" ") # 1 3 
