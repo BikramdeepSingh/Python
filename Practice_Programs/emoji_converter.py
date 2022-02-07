@@ -1,4 +1,4 @@
-def emoji_converter(words):
+def emoji_converter(msg):
     words= msg.split(' ') #returns a list of string items
     emojis = {
         'happy': ":)",
