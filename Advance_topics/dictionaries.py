@@ -17,7 +17,7 @@ customer ={
 customer['name']='Sam Billings' #updates the value
 customer['height']="160 cm" #adding a new key value pair
 
-print(customer["name"])
+print(customer["name"]) #generates error if key not present
 #or we can use get method to pass a key
 print(customer.get("age")) #returns none if key not present
 
