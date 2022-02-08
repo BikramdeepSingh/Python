@@ -18,9 +18,9 @@ class Point:
 
 
 p1= Point(10,20) #Object of class Point
-p1.x=11
-print(f'(x,y)= ({p1.x},{p1.y})')
 
+print(f'(x,y)= ({p1.x},{p1.y})')
+p1.x=11 #updated value of x attribute
 p1.draw() 
 p1.move()
 
