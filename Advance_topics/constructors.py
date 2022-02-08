@@ -3,6 +3,14 @@ Constructors
  Construcotr is a function that gets called at the time of the creation of 
  the object.
  Constructos are defined with __init__
+
+Magic or Dunder Methods 
+ Magic methods in Python are the special methods that start and end with 
+ the double underscores.
+ Magic methods are not meant to be invoked directly by you, but the 
+ invocation happens internally from the class on a certain action.
+ For example, when you add two numbers using the + operator, internally, 
+ the __add__() method will be called.
 '''
 
 class Point:
