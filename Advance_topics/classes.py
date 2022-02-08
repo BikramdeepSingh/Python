@@ -3,6 +3,8 @@ Classes
  class defines a blueprint or template for creating objects.
  Classes are used to define new types to model real concepts.
  First letter of every word in a class is capitalized
+ Every method in a class will have a self parameter which is very first parameter
+
 
 Object
  Object is an instance of a class
