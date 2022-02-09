@@ -11,3 +11,6 @@ for i in range(3):
     random_intval=random.randint(10,20)
     #randint generates random values between two arguments inclusive
     print(f'{random_intval}')
+
+members = ['John', 'Smith', 'Steve', 'Jessica', 'Tim']
+print(random.choice(members)) #randomly picks an item from the list
