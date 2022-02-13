@@ -6,6 +6,8 @@ Python is an interpreted high-level general-purpose programming language. Its la
 Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your 
 way writing programs with Python!
 
+In this repo, I have included some concepts which a beginner will find useful in the start and will enjoy writing codes in python in future.
+
 
 
 ## Python / Inventor (Guido van Rossum)
