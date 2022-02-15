@@ -1,3 +1,4 @@
 It's fun to learn and explore python.
 This is a sample file for learning file handling.
 Multiple functions and methods will be explored with this file.
+This was written using append method
