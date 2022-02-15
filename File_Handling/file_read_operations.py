@@ -24,3 +24,4 @@ else: #if there is no exception else will work
     print('Successful read')
 finally:
     f.close()
+    print('closed the file successfully')
