@@ -12,10 +12,15 @@ files.
 try:
     f = open("D:\Python\File_Handling\sample_file.txt", "r") #it will open the file in read mode
     #print(f.read()) #returns the whole file
-    #print(f.read(10)) to returns only 10 characters
-    print(f.readline())
+    #print(f.read(10)) #to returns only 10 characters
+    #print(f.readline()) #reads only a single line 
+    # we can also use for loop to iterate through the file line by line
+    for reading in f:
+        print(reading)
     
 except:
     print('Error in accessing the file!')
 else: #if there is no exception else will work
     print('Successful read')
+finally:
+    f.close()
