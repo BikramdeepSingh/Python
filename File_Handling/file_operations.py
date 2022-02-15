@@ -8,3 +8,10 @@ files.
     "w" - Write - Opens a file for writing, creates the file if it does not exist
     "x" - Create - Creates the specified file, returns an error if the file exists
 '''
+
+try:
+    f = open("sample_file.txt") #it will open the file in read mode
+except:
+    print('Error in accessing the file!')
+else: #if there is no exception else will work
+    print('We are in else')
