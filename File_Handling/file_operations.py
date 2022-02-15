@@ -10,8 +10,9 @@ files.
 '''
 
 try:
-    f = open("sample_file.txt") #it will open the file in read mode
+    f = open("D:\Python\File_Handling\sample_file.txt", "r") #it will open the file in read mode
+    print(f.read())
 except:
     print('Error in accessing the file!')
 else: #if there is no exception else will work
-    print('We are in else')
+    print('Successful read')
