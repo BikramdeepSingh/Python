@@ -28,3 +28,6 @@ print(customer[12])
 print(customer) #returns whole dictonary
 
 print(customer.get('purchase_history')) #returns all the items in list
+
+for key, value in customer.items():
+    print('Key: {} and Value: {}'.format(key,value))
