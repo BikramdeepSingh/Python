@@ -13,4 +13,4 @@ try:
 except:
     print('Error in accessing the file!')
 else: #if there is no exception else will work
-    print('Successful file deletion')
+    print('No error occured')
