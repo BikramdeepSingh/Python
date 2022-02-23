@@ -1,12 +1,14 @@
 
 # Python
 
+In a programming language like Python, the syntax is the rules for how each instruction is written and the semantics is the effects the instructions have. 
+
 Python is an interpreted high-level general-purpose programming language. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
 Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your 
 way writing programs with Python!
 
-In this repo, I have included some concepts which a beginner will find useful in the start and will enjoy writing codes in python in future.
+In this repo, I have included some concepts which a beginner will find useful in the start and will enjoy writing codes in python.
 
 
 
