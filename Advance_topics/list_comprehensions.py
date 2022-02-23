@@ -1,5 +1,6 @@
 '''
 List comprehensions let us create new list based on sequences or ranges
+List comprehensions can be really powerful, but they can also be super complex, resulting in code that's hard to read.
 '''
 
 '''
