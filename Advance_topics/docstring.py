@@ -9,3 +9,4 @@ def to_seconds(hours,minutes,seconds):
     ''' This method converts hours, minutes and seconds to seconds'''
     return hours*3600+minutes*60+seconds
 
+help(to_seconds)
