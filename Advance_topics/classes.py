@@ -17,6 +17,11 @@ Classes
 
 Object
  Object is an instance of a class
+
+ We can use the type() function to figure out what class a variable or value belongs to.
+ We can use the dir() function to print all the attributes and methods of an object.
+ We can also use the help() function on an object, which will return the documentation 
+ for the corresponding class.
 '''
 
 class Point:
