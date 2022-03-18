@@ -18,7 +18,7 @@ In this repo, I have included some concepts which a beginner will find useful in
 When he began implementing Python, Guido van Rossum was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
 
 
-##PIP
+## PIP
 pip is a package-management system written in Python used to install and manage software packages. It connects to an online repository of public packages, called the Python Package Index. pip can also be configured to connect to other package repositories, provided that they comply to Python Enhancement Proposal 503.
 
 
